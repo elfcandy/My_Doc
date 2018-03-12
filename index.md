@@ -6,7 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Shell 知识点积累](https://elfcandy.github.io/My_Doc/shell_script.html)
 
+
 [Linux 命令积累](https://elfcandy.github.io/My_Doc/linux_cmd.html)
+
 
 ### Markdown
 
