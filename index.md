@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/elfcandy/My_Doc/edit/maste
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [Shell 知识点积累](https://elfcandy.github.io/My_Doc/shell_script.html)
+[Linux 命令积累]  (https://elfcandy.github.io/My_Doc/Linux_cmd.html)
 
 ### Markdown
 
