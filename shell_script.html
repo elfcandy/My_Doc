@@ -36,9 +36,24 @@
                 <a href="http://blog.csdn.net/u011341352/article/details/53215180">参考连接</script><br /> <br /> 
 
                 
+        <p>3> Shell中的结构化命令: </p>
+                <1>if-then语句，若command的退出码为0（该命令成功运行）：</script><br /><br />
+                    基本命令：</script><br />
+                        if command </script><br />
+                        then </script><br />
+                                commands </script><br />
+                        fi </script><br />
+                    把then放到句尾，command后面带分号： </script><br />
+                        if command; then </script><br />
+                                commands </script><br />
+                        fi </script><br /><br />
+                    command可以使用双圆括号"(( ))"，双圆括号中可以使用高级数据表达式 </script><br /><br />
+                    command可以使用双方括号"[[ ]]"，双方括号中提供了字符串比较的高级特性，模式匹配（bash shell支持，其余的shell不确定） </script><br /><br />
 
-         3> 使用gcc进行编译的说明：</script><br /><br />
-  
+                <2>test命令，若test命令中列出的条件成立，test命令就会退出并返回推出状态码0，分为三类：</script><br /><br />
+                        a> 数值比较； </script><br />
+                        b> 字符串比较； </script><br />
+                        c> 文件比较； </script><br />
 
         </body>
     </html>
